@@ -28,6 +28,9 @@ To build or edit this application, you will need VS Code, or any IDE, as well as
 
 * A package.json file should appear. Then enter the following into your terminal:  
 ```npm install ```
+ 
+* To run the seeds file and populate your database, run the following:
+```npm run seed ```
 
 
 
@@ -52,6 +55,7 @@ GitHub: https://github.com/ericlafontsee
 elafontsee@gmail.com
 
 ## Acknowledgements 
+Public files and seeds.js provided by Trilogy
 Sangeetha Kaliaperumal - Trilogy  
     * Helped debugging 
 Anthony Cooper - Trilogy  
