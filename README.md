@@ -32,15 +32,27 @@ To build or edit this application, you will need VS Code, or any IDE, as well as
 * To run the seeds file and populate your database, run the following:
 ```npm run seed ```
 
+* To utilize the Bootstrap components in the stats.html, place the following link in the head:
+```html
+    <link
+    rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+    crossorigin="anonymous"
+    />
+  ```  
+
 
 
 ## Built-With
 Node.js  
 JavaScript  
-MongoDB
-Mongoose
-Express
-HTML
+MongoDB  
+Mongoose  
+Express  
+HTML  
+CSS  
+Bootstrap
 
 ## License 
 This project is licensed under MIT. 
@@ -55,10 +67,10 @@ GitHub: https://github.com/ericlafontsee
 elafontsee@gmail.com
 
 ## Acknowledgements 
-Public files and seeds.js provided by Trilogy
-Sangeetha Kaliaperumal - Trilogy  
+* Public files and seeds.js provided by Trilogy  
+* Sangeetha Kaliaperumal - Trilogy  
     * Helped debugging 
-Anthony Cooper - Trilogy  
+* Anthony Cooper - Trilogy  
     * Code revisions  
  
 
