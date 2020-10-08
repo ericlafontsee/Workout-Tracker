@@ -1,7 +1,7 @@
 # Workout-Tracker
 
 ## Description
-For this project, I created a workout tracker. This app allows users to create and track their daily workouts. They can add a new exercises to a new workout plan or update and existing plan. Finally, the user can view their stats.
+For this project, I created a workout tracker. This app allows users to create and track their daily workouts. They can add new exercises to a new workout plan or update and existing plan. Finally, the user can view their stats.
 
 ## Table Of Contents
 * [Usage](#Usage)
